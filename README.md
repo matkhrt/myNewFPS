@@ -1,0 +1,2 @@
+# myNewFPS
+Simple FPS game
